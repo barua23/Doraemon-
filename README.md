@@ -4,7 +4,7 @@ In this repository, I Draw Doraemon using Python Turtle. Creating Doraemon art u
 <br>
 <h4>To Draw Doraemon Using Python Turtle, you can follow these steps:</h4>
 <ol>
-<li>open any python code Editor.</li>
+<li>open any python code Editor</li>
 <li>Import  the required  module</li> .
 <li>Copy the code for the Draw Doraemon Using Python, which I provided in this repository, and save it in a file named “main.py” (or any other name you prefer).</li>
 <li>Run this  main.py to start the Drawing .</li>
